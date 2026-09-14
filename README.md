@@ -21,6 +21,7 @@ Maintained by [nasirazizawan009](https://github.com/nasirazizawan009).
 ## Keyboard
 
 - [KeyboardTester.click](https://keyboardtester.click) - Free, open-source diagnostic suite. Per-key tester, NKRO/ghosting check, USB polling rate (Hz) estimator, switch chatter detector, switch sound classifier, key repeat rate.
+- [Online Hardware Test Tools](https://hardware-test.uwarp.design/) - Free browser suite for webcam, mic, keyboard, mouse, gamepad, touch, refresh rate, GPU, and dead-pixel diagnostics; local-only with no signup.
 - [Keyboard Ghosting Test](https://keyboardtester.click/keyboard-ghosting-test.php) - Detect which key combinations your keyboard cannot register.
 - [N-Key Rollover Test](https://keyboardtester.click/n-key-rollover-test.php) - Find your keyboard actual NKRO limit.
 - [Stuck Key Test](https://keyboardtester.click/stuck-key-test.php) - Check for stuck or unresponsive keys.
@@ -83,4 +84,3 @@ Open a PR adding any free, browser-based, no-login hardware testing tool. Format
 ```markdown
 - [Tool Name](https://example.com/tool) - One-sentence description focused on what the tool measures or detects.
 ```
-
