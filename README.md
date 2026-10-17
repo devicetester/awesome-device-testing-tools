@@ -35,6 +35,7 @@ Maintained by [nasirazizawan009](https://github.com/nasirazizawan009).
 - [Scroll Wheel Test](https://keyboardtester.click/scroll-wheel-test.php) - Test scroll wheel accuracy and direction.
 - [Double Click Test](https://keyboardtester.click/double-click-test.php) - Verify double-click registration.
 - [Latency Checker](https://keyboardtester.click/latency-checker.php) - Measure input lag.
+- [ReactionMetric Double Click Test](https://reactionmetric.com/double-click-test/) - Detect unintended mouse double-clicks and inspect click timing directly in the browser.
 
 ## Monitor / Display
 
